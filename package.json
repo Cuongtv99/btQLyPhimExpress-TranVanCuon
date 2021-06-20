@@ -1,0 +1,18 @@
+{
+  "name": "btQLyPhimExpress-TranVanCuon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Cuongtv99/btQLyPhimExpress-TranVanCuon.git",
+  "author": "Cuongtv99 <badlegolas.9g@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
